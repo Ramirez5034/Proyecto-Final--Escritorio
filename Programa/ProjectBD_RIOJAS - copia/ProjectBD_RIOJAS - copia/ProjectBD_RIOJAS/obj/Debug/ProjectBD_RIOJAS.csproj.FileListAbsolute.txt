@@ -1,0 +1,72 @@
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.exe.config
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.exe
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.pdb
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\bin\Debug\MaterialSkin.dll
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.AssemblyReference.cache
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Career.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Inicio.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Menu.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Properties.Resources.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.GenerateResource.cache
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.CoreCompileInputs.cache
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.CopyComplete
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.exe
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.pdb
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Employee.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.EmployeeType.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Course.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.DocumentType.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.DocumentRequest.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Usuario.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.CareerService.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Class.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Kardex.resources
+C:\Users\Seart\source\repos\ProjectBD_RIOJAS\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Opportunity.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.exe.config
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.exe
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.pdb
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\bin\Debug\MaterialSkin.dll
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.AssemblyReference.cache
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Career.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.CareerService.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Class.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Course.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.DocumentRequest.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.DocumentType.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Employee.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.EmployeeType.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Inicio.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Kardex.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Menu.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Opportunity.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Properties.Resources.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Usuario.resources
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.GenerateResource.cache
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.CoreCompileInputs.cache
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.CopyComplete
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.exe
+C:\Users\Seart\Desktop\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.pdb
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.exe.config
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.exe
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\bin\Debug\ProjectBD_RIOJAS.pdb
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\bin\Debug\MaterialSkin.dll
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.AssemblyReference.cache
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Career.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.CareerService.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Class.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Course.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.DocumentRequest.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.DocumentType.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Employee.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.EmployeeType.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Inicio.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Kardex.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Menu.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Opportunity.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Properties.Resources.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.Usuario.resources
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.GenerateResource.cache
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.CoreCompileInputs.cache
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.csproj.CopyComplete
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.exe
+C:\Users\ozdia\Downloads\ProjectBD_RIOJAS - copia\ProjectBD_RIOJAS\obj\Debug\ProjectBD_RIOJAS.pdb
